@@ -1,16 +1,25 @@
-# kuliah_flutter_layout
+![Material App](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 05.54.50.png>)
+![Cupertino App](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 05.55.28.png>)
+![Non- Material App](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 05.56.41.png>)
+![Row](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.11.42.png>)
+![Column](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.13.41.png>)
+![Expanded Widget](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.17.04.png>)
+![Expanded widget with flex](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.17.36.png>)
+![Packing Widget](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.17.54.png>)
 
-A new Flutter project.
+Nesting Rows and Column
+![var star and rating](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.20.06.png>)
+![dec style and icon list](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.21.46.png>)
+![left column](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.33.26.png>)
+![implementation in body](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 06.52.18.png>)
 
-## Getting Started
+(example)Container
+![Build Image Column](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 07.01.57.png>)
+![Decorated Image](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 07.28.39.png>)
+![Image Row](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 07.29.33.png>)
 
-This project is a starting point for a Flutter application.
+![Grid View](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 07.03.13.png>)
 
-A few resources to get you started if this is your first Flutter project:
+![Stack](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 07.05.22 #2.png>)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Card](<Simulator Screenshot - iPhone 16 Pro - 2024-10-01 at 07.06.01.png>)

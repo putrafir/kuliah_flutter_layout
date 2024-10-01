@@ -131,7 +131,7 @@ class MyApp extends StatelessWidget {
 
         body: Center(
           child: Container(
-            child: _buildCard(),
+            child: _buildImageRow(3),
           ),
         ),
       ),
